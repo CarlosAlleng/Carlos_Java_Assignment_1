@@ -1,0 +1,39 @@
+ Question:
+
+    Describe the four basic elements of counter-controlled iteration.             
+                        
+                        
+ Answer:
+
+
+    Initialization: 
+    
+    This is where you initialize a counter variable, typically to 0 or 1, depending 
+    
+    on how you want to start counting. This variable keeps track of the number of times the loop has iterated.
+
+   
+    Test condition: 
+    
+    This is an expression that determines whether the loop should continue iterating. 
+    
+    It is usually based on the counter variable and some other condition you want to check. 
+    
+    For example, the test condition might be counter <= 10, which means the loop will continue 
+    
+    as long as the counter is less than or equal to 10.
+
+    
+    Update statement: 
+    
+    This statement updates the counter variable after each iteration. It is usually used to increment 
+    
+    or decrement the counter by a certain value. For example, the update statement might be counter++,
+    
+    which means the counter will be incremented by 1 after each iteration.
+
+    Loop body: 
+    
+    This is the block of code that is executed repeatedly while the test condition is true. It can contain
+    
+     any valid Java statements and can be as simple or as complex as you need.

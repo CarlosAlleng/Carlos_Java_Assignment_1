@@ -1,0 +1,17 @@
+Fill in the blanks in each of the following statements:
+
+(a) Comments are used to document a program and improve its readability.
+
+(b) A decision can be made in a Java program with a(n) if statement.
+
+(c) The arithmetic operators with the same precedence as multiplication 
+    are division (/) and modulo (%).
+
+(d) When parentheses in an arithmetic expression are nested, the innermost 
+    set of parentheses is evaluated first.
+
+(e) A location in the computer’s memory that may contain different values at
+    various times throughout the execution of a program is called a(n) variable.
+
+
+   

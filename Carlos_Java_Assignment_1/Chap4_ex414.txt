@@ -1,0 +1,18 @@
+Question
+
+What is the difference between preincrementing and postincrementing a variable?
+
+Answer
+
+Both preincrement and postincrement are used to increment the value of a variable 
+by 1 in Java. However, there is a subtle difference in how they are performed.
+
+Preincrementing:
+
+    The ++ operator is placed before the variable name and the value of the variable is 
+    incremented by 1 before it is used in the expression.
+
+Postincrementing:
+
+    The ++ operator is placed after the variable name and the original value of the variable
+     is used in the expression, and then it is incremented by 1.

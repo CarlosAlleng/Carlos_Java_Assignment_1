@@ -1,0 +1,14 @@
+
+Question
+ 
+ (Instance Variables) Explain the purpose of an instance variable.
+
+Answer
+
+Instance variables are used to store data that is specific to each object of a class,
+this data can be used by the methods of the class to perform their tasks.
+
+For example, consider a class Car with instance variables such as make, 
+model, year, and color. Each Car object created from this class will have
+its own values for these variables, representing the make, model, year, and 
+color of that specific car.
